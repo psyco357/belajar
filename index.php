@@ -3,8 +3,8 @@
 <html lang="en">
 <head>
 <?php 
-  include 'koneksi.php';
-  include 'tema/atas.php';
+//  include 'koneksi.php';
+//  include 'tema/atas.php';
 ?>
 
 
